@@ -1,0 +1,5 @@
+streamlit>=1.38.0
+selenium>=4.20.0
+beautifulsoup4>=4.12.0
+dateparser>=1.2.0
+pandas>=2.2.0
